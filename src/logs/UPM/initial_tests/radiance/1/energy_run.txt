@@ -1,0 +1,26 @@
+# Run both services in the background. One is for enabling REST API server and other for gather data
+
+# 1.- Connect via SSH
+ssh arp@192.168.122.1
+pass 4893
+
+# 2.- Run Rest API server
+# It will receive in the background requests from probe
+# Server is always up and running, so you do not need to do nothing here
+cd Downloads/GATV/5G-Energy
+source venv/bin/activate
+nohup /usr/bin/python3 server.py &
+
+# 3.- Run data gathering
+# It will request each 15 seconds data from server and add to server.txt file
+# Before each collection, remember to remove server.txt
+cd Downloads/GATV/5G-Energy
+rm server.txt
+source venv/bin/activate
+nohup /usr/bin/python3 data_server.py > /dev/null 2>&1 &
+
+# 4.- To stop the data collection
+ps aux | grep python
+# Look for the process data.server.py and find number process
+kill NUMBER_PROCESS
+# Return to step 3 to continue gathering data

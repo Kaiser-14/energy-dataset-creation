@@ -1,0 +1,546 @@
+
+ time: 1633087083
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+  8.82   0.00   8.82  312718 R    3   0.08s /snap/cpustat/148/usr/sbin/cpustat
+  2.94   0.00   2.94     402 R    1   1.27s [systemd-journal]
+
+
+ End time: 122 sec
+
+ Asmfish has been launched 0 times
+
+ Script running time: 2 sec
+
+
+
+ time: 1633087085
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+  2.94   0.00   2.94  312752 R    0   0.03s /snap/cpustat/148/usr/sbin/cpustat
+
+
+
+
+ time: 1633087086
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+
+
+
+
+ time: 1633087086
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+  2.94   0.00   2.94  312803 R    1   0.03s /snap/cpustat/148/usr/sbin/cpustat
+
+
+
+
+ time: 1633087107
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+  2.94   0.00   2.94  312833 R    1   0.02s /snap/cpustat/148/usr/sbin/cpustat
+
+
+ Script running time: 44 sec
+
+
+
+ time: 1633087127
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+391.18 391.18   0.00  313177 S    2   1.01m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 46 sec
+
+
+
+ time: 1633087129
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+406.06 406.06   0.00  313177 S    2   1.07m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 47 sec
+
+
+
+ time: 1633087130
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+406.06 406.06   0.00  313177 S    2   1.13m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 49 sec
+
+
+
+ time: 1633087132
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+400.00 400.00   0.00  313177 S    2   1.19m ./LinuxOS_binaries/asmFishL_2018-07-
+  2.94   2.94   0.00     402 S    3   1.35s [systemd-journal]
+  2.94   0.00   2.94  313262 R    3   0.03s /snap/cpustat/148/usr/sbin/cpustat
+
+
+ Script running time: 50 sec
+
+
+
+ time: 1633087133
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+406.06 406.06   0.00  313177 S    2   1.25m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 52 sec
+
+
+
+ time: 1633087135
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+403.03 403.03   0.00  313177 S    2   1.32m ./LinuxOS_binaries/asmFishL_2018-07-
+  3.03   3.03   0.00     402 R    3   1.36s [systemd-journal]
+
+
+ Script running time: 53 sec
+
+
+
+ time: 1633087136
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+403.03 403.03   0.00  313177 S    2   1.38m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 55 sec
+
+
+
+ time: 1633087138
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+406.06 406.06   0.00  313177 S    2   1.44m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 56 sec
+
+
+
+ time: 1633087139
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+394.12 394.12   0.00  313177 S    2   1.50m ./LinuxOS_binaries/asmFishL_2018-07-
+  2.94   0.00   2.94      36 S    1   0.01s [kauditd]
+
+
+ Script running time: 58 sec
+
+
+
+ time: 1633087141
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+403.03 403.03   0.00  313177 S    2   1.56m ./LinuxOS_binaries/asmFishL_2018-07-
+  3.03   0.00   3.03     757 S    1  22.69s [thermald]
+
+
+ Script running time: 60 sec
+
+
+
+ time: 1633087143
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+406.06 406.06   0.00  313177 S    2   2.02m ./LinuxOS_binaries/asmFishL_2018-07-
+  3.03   0.00   3.03     402 R    1   1.40s [systemd-journal]
+
+
+ Script running time: 61 sec
+
+
+
+ time: 1633087144
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+403.03 403.03   0.00  313177 S    2   2.08m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 63 sec
+
+
+
+ time: 1633087146
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+402.94 402.94   0.00  313177 S    2   2.14m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 64 sec
+
+
+
+ time: 1633087147
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+406.06 406.06   0.00  313177 S    2   2.20m ./LinuxOS_binaries/asmFishL_2018-07-
+  3.03   3.03   0.00     402 R    1   1.42s [systemd-journal]
+
+
+ Script running time: 66 sec
+
+
+
+ time: 1633087149
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+406.06 406.06   0.00  313177 S    2   2.26m ./LinuxOS_binaries/asmFishL_2018-07-
+  3.03   0.00   3.03      10 S    0   1.47s [ksoftirqd/0]
+
+
+ Script running time: 67 sec
+
+
+
+ time: 1633087150
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+406.06 406.06   0.00  313177 S    2   2.33m ./LinuxOS_binaries/asmFishL_2018-07-
+  3.03   3.03   0.00     402 R    1   1.44s [systemd-journal]
+
+
+ Script running time: 69 sec
+
+
+
+ time: 1633087152
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+394.12 394.12   0.00  313177 S    2   2.39m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 70 sec
+
+
+
+ time: 1633087153
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+394.12 394.12   0.00  313177 S    3   2.45m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 72 sec
+
+
+
+ time: 1633087155
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+391.18 391.18   0.00  313177 S    3   2.51m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 73 sec
+
+
+
+ time: 1633087156
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+406.06 406.06   0.00  313177 S    3   2.57m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 75 sec
+
+
+
+ time: 1633087158
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+402.94 402.94   0.00  313177 S    3   3.03m ./LinuxOS_binaries/asmFishL_2018-07-
+  5.88   2.94   2.94  313698 R    1   0.03s /snap/cpustat/148/usr/sbin/cpustat
+  2.94   2.94   0.00     402 S    1   1.48s [systemd-journal]
+
+
+ Script running time: 77 sec
+
+
+
+ time: 1633087160
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+402.94 402.94   0.00  313177 S    3   3.09m ./LinuxOS_binaries/asmFishL_2018-07-
+  2.94   0.00   2.94  313723 R    1   0.02s /snap/cpustat/148/usr/sbin/cpustat
+
+
+ Script running time: 78 sec
+
+
+
+ time: 1633087161
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+400.00 400.00   0.00  313177 S    3   3.16m ./LinuxOS_binaries/asmFishL_2018-07-
+  2.94   2.94   0.00  313748 R    1   0.03s /snap/cpustat/148/usr/sbin/cpustat
+
+
+ Script running time: 80 sec
+
+
+
+ time: 1633087163
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+391.18 391.18   0.00  313177 S    3   3.22m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 81 sec
+
+
+
+ time: 1633087164
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+403.03 403.03   0.00  313177 S    3   3.28m ./LinuxOS_binaries/asmFishL_2018-07-
+  3.03   3.03   0.00     402 R    1   1.52s [systemd-journal]
+
+
+ Script running time: 83 sec
+
+
+
+ time: 1633087166
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+394.12 394.12   0.00  313177 S    3   3.34m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 84 sec
+
+
+
+ time: 1633087167
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+394.12 394.12   0.00  313177 S    3   3.40m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 86 sec
+
+
+
+ time: 1633087169
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+406.06 406.06   0.00  313177 S    3   3.46m ./LinuxOS_binaries/asmFishL_2018-07-
+  3.03   3.03   0.00     402 R    1   1.54s [systemd-journal]
+
+
+ Script running time: 87 sec
+
+
+
+ time: 1633087170
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+400.00 400.00   0.00  313177 S    3   3.52m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 89 sec
+
+
+
+ time: 1633087172
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+406.06 406.06   0.00  313177 S    3   3.58m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 90 sec
+
+
+
+ time: 1633087173
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+400.00 400.00   0.00  313177 S    3   4.04m ./LinuxOS_binaries/asmFishL_2018-07-
+  2.94   0.00   2.94  313950 R    1   0.02s /snap/cpustat/148/usr/sbin/cpustat
+
+
+ Script running time: 92 sec
+
+
+
+ time: 1633087175
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+403.03 403.03   0.00  313177 S    3   4.11m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 94 sec
+
+
+
+ time: 1633087177
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+402.94 402.94   0.00  313177 S    3   4.17m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 95 sec
+
+
+
+ time: 1633087178
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+406.06 406.06   0.00  313177 S    3   4.23m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 97 sec
+
+
+
+ time: 1633087180
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+406.06 406.06   0.00  313177 S    3   4.29m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 98 sec
+
+
+
+ time: 1633087181
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+406.06 406.06   0.00  313177 S    3   4.35m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 100 sec
+
+
+
+ time: 1633087183
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+406.06 406.06   0.00  313177 S    3   4.41m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 101 sec
+
+
+
+ time: 1633087184
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+403.03 403.03   0.00  313177 S    3   4.47m ./LinuxOS_binaries/asmFishL_2018-07-
+  3.03   0.00   3.03     402 R    3   1.62s [systemd-journal]
+
+
+ Script running time: 103 sec
+
+
+
+ time: 1633087186
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+406.06 406.06   0.00  313177 S    3   4.53m ./LinuxOS_binaries/asmFishL_2018-07-
+  3.03   3.03   0.00     402 R    3   1.63s [systemd-journal]
+
+
+ Script running time: 104 sec
+
+
+
+ time: 1633087187
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+391.18 391.18   0.00  313177 S    3   5.00m ./LinuxOS_binaries/asmFishL_2018-07-
+  2.94   2.94   0.00     402 R    3   1.64s [systemd-journal]
+
+
+ Script running time: 106 sec
+
+
+
+ time: 1633087189
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+403.03 403.03   0.00  313177 S    3   5.06m ./LinuxOS_binaries/asmFishL_2018-07-
+  3.03   3.03   0.00      11 I    1  17.85s [rcu_sched]
+
+
+ Script running time: 107 sec
+
+
+
+ time: 1633087190
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+394.12 394.12   0.00  313177 S    3   5.12m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 109 sec
+
+
+
+ time: 1633087192
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+406.06 406.06   0.00  313177 S    3   5.18m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 110 sec
+
+
+
+ time: 1633087193
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+391.18 391.18   0.00  313177 S    3   5.24m ./LinuxOS_binaries/asmFishL_2018-07-
+  2.94   2.94   0.00  314285 R    0   0.02s /snap/cpustat/148/usr/sbin/cpustat
+  2.94   2.94   0.00     402 R    1   1.67s [systemd-journal]
+
+
+ Script running time: 112 sec
+
+
+
+ time: 1633087195
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+391.18 391.18   0.00  313177 S    3   5.30m ./LinuxOS_binaries/asmFishL_2018-07-
+
+
+ Script running time: 114 sec
+
+
+
+ time: 1633087197
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+391.18 391.18   0.00  313177 S    3   5.36m ./LinuxOS_binaries/asmFishL_2018-07-
+  5.88   2.94   2.94     752 S    1  21.74s [snapd]
+  2.94   0.00   2.94      36 R    2   0.03s [kauditd]
+
+
+ Script running time: 115 sec
+
+
+
+ time: 1633087198
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+403.03 403.03   0.00  313177 S    3   5.42m ./LinuxOS_binaries/asmFishL_2018-07-
+  3.03   0.00   3.03     402 R    2   1.69s [systemd-journal]
+
+
+ Script running time: 117 sec
+
+
+
+ time: 1633087200
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+406.06 406.06   0.00  313177 S    3   5.48m ./LinuxOS_binaries/asmFishL_2018-07-
+  3.03   3.03   0.00     402 R    2   1.70s [systemd-journal]
+
+
+ Script running time: 118 sec
+
+
+
+ time: 1633087201
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+400.00 400.00   0.00  313177 S    3   5.55m ./LinuxOS_binaries/asmFishL_2018-07-
+  2.94   2.94   0.00     402 S    2   1.71s [systemd-journal]
+  2.94   0.00   2.94  314410 R    2   0.02s /snap/cpustat/148/usr/sbin/cpustat
+
+
+   ***   Asmfish session completed!   ***
+
+ - Asmfish has been launched 1 times
+
+ End Time: 1633087203
+
+ Script running time: 120 sec
+
+
+
+ time: 1633087203
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+402.94 402.94   0.00  313177 S    3   6.01m ./LinuxOS_binaries/asmFishL_2018-07-
+  2.94   0.00   2.94  314437 R    2   0.02s /snap/cpustat/148/usr/sbin/cpustat
+
+
+   ***   Asmfish session completed!   ***
+
+ - Asmfish has been launched 1 times
+
+ End Time: 1633087204
+
+ Script running time: 121 sec
+
+
+
+ time: 1633087204
+  %CPU   %USR   %SYS     PID S  CPU    Time Task
+403.03 403.03   0.00  313177 S    3   6.07m ./LinuxOS_binaries/asmFishL_2018-07-
+  3.03   3.03   0.00     402 R    2   1.73s [systemd-journal]
+
+
+   ***   Asmfish session completed!   ***
+
+ - Asmfish has been launched 1 times
+
+ End Time: 1633087206
