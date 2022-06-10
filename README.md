@@ -6,11 +6,26 @@ To perform stimuli on the different devices, the Phoronix software has been used
 
 After having this data available, the data is processed to create a dataset that can be used to train a machine learning model. We demonstrate the usefulness of these data through some graphs, observing the correlation between the features.
 
-You can start from any step that you choose, but the datasets are already provided in the repository. There are individual ones, but also one combined with all the data collected from the last attempt of each test in the UPM laboratory.
-
+This code serves as a demonstration of how to create a dataset from different data generation tools. The raw data is located in ```/src/logs/```, but in case you are looking for the already processed and combined data, you can find it in ```/dataset/dataset_complete.csv```
 ## Getting started
 
-This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
+### Distribution
+
+```
+├── dataset/  <––– Directory to host final datasets, complete and individual by type of test. All already processed
+├── src/  <––– Source code
+│   ├── data_analysis/   <––– Analysis of the data obtained
+│   ├── data_extraction/   <––– Server data extraction
+│   ├── data_preparation/   <––– Preparation and processing of individual test data
+│   ├── data_summarization/   <––– Statistical and graphic summarization
+│   ├── dataset_creation/   <––– Combination of individual tests in the complete dataset
+│   ├── images/   <––– Compilation of images of the tests carried out
+│   ├── logs/   <––– Raw data from the tests
+├── License  <––– License for the project
+├── requirements.txt  <––– 
+└── dataset/  <––– Directory to host final datasets, complete and individual by type of test. All already processed
+```
+
 
 ### Installation
 
